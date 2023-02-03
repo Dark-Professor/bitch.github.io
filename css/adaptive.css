@@ -1,0 +1,632 @@
+@media (max-width: 1200px) {
+
+
+/* Container (Рамка для Сайта) */
+   .container {
+    width: 900px;
+   }
+
+
+
+/* Cicero */
+   .cicero {
+    color: #fff;
+    margin-right: 400px;
+}
+
+
+
+/* Header (Phrase) */
+   .phrase h2 {
+    font-size: 41px;
+}
+
+
+
+/* About (description 1) */
+   .desc-left, .desc-right {
+    width: 400px;
+}
+
+
+
+/* About (description 2) */
+   .desc-left2, .desc-right2 {
+    width: 400px;
+}
+
+
+
+/* Contact */
+    #form_input {
+    width: 80%;
+    margin-left: 20%;
+}
+
+
+}
+
+
+
+
+
+@media (max-width: 992px) {
+
+
+/* Container (Рамка для Сайта) */
+   .container {
+    width: 750px;
+   }
+
+
+
+/* Cicero */
+   .cicero {
+    font-size: 30px;
+    margin-right: 250px;
+}
+
+
+
+/* Header (Phrase) */
+   .phrase h2 {
+    font-size: 35px;
+}
+
+
+
+/* About us */
+    h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+/* About (description 1) */
+   .desc-left, .desc-right {
+    width: 290px;
+}
+
+
+
+/* About (description 2) */
+   .desc-left2, .desc-right2 {
+    width: 290px;
+}
+
+ 
+
+/* Contact */
+    #contacts h5 {
+    font-size: 2em;
+}
+
+
+
+/* Contact form */
+    #form_input {
+    width: 80%;
+    margin-left: 20%;
+}
+
+
+}
+  
+
+
+
+
+@media (max-width: 768px) {
+       
+
+/* Container (Рамка для Сайта) */
+  .container {
+    width: 650px;
+   }
+
+
+
+/* Cicero */
+   .cicero {
+    font-size: 27px;
+    margin-right: 170px;
+}
+
+
+
+/* Header (Phrase) */
+   .phrase h2 {
+    font-size: 30px;
+}
+
+
+
+/* About us */
+    h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+/* About (description 1) */
+   .desc-left, .desc-right {
+    width: 260px;
+    
+}
+
+.desk-left {
+    padding-left: 100px;
+}
+
+
+
+/* About (description 2) */
+   .desc-left2, .desc-right2 {
+    width: 260px;
+}
+
+ 
+
+/* Contact */
+    #contacts h5 {
+    font-size: 2em;
+}
+
+
+
+/* Contact form */
+    #form_input {
+    width: 80%;
+    margin-left: 20%;
+}  
+
+
+}
+
+
+
+            
+
+@media (max-width: 668px) {
+    
+
+/* Container (Рамка для Сайта) */
+  .container {
+    width: 580px;
+   }
+
+
+
+/* Cicero */
+   .cicero {
+    font-size: 25px;
+    margin-right: 190px;
+}
+
+
+
+/* Header Menu */
+   .menu li {
+    margin-right: 30px;
+}
+
+
+
+/* Header (Phrase) */
+   .phrase h2 {
+    font-size: 25px;
+}
+
+
+
+/* About us */
+    h3 {
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+
+
+/* About DESCRIPTION1 */
+.description {
+    width: 250px;
+    flex-direction: column;
+    margin-left: 90px;
+}
+
+
+
+/* About DESCRIPTION2 */
+.description2 {
+    width: 250px;
+    flex-direction: column;
+    margin-left: 90px;
+}
+
+
+
+/* About (description 1) */
+   .desc-left, .desc-right {
+    width: 400px;
+}
+
+
+
+/* About (description 2) */
+   .desc-left2, .desc-right2 {
+    width: 400px;
+}
+
+ 
+
+/* Contact */
+    #contacts h5 {
+    font-size: 1.7em;
+}
+
+
+
+/* Contact form */
+    #form_input {
+    width: 80%;
+    margin-left: 20%;
+}  
+
+
+}
+
+
+
+
+
+@media (max-width: 588px) {
+    
+
+/* Container (Рамка для Сайта) */
+    .container {
+        width: 480px;
+    }
+    
+
+    
+/* Cicero */
+    .cicero {
+        font-size: 20px;
+        margin-right: 150px;
+    }
+    
+    
+    
+/* Header Menu */
+    .menu li {
+        margin-right: 20px;
+    }
+    
+    
+    
+/* Header (Phrase) */
+    .phrase h2 {
+        font-size: 22px;
+    }
+    
+    
+    
+/* About us */
+    h3 {
+        font-size: 17px;
+        margin-bottom: 20px;
+    }
+    
+    
+    
+/* About DESCRIPTION1 */
+    .description {
+        width: 200px;
+        flex-direction: column;
+        margin-left: 45px;
+    }
+    
+    
+    
+/* About DESCRIPTION2 */
+    .description2 {
+        width: 200px;
+        flex-direction: column;
+        margin-left: 45px;
+    }
+    
+    
+    
+/* About (description 1) */
+    .desc-left, .desc-right {
+        width: 400px;
+    }
+    
+    
+    
+/* About (description 2) */
+    .desc-left2, .desc-right2 {
+        width: 400px;
+    }
+    
+     
+    
+/* Contact */
+    #contacts h5 {
+        font-size: 1.7em;
+    }
+    
+    
+    
+/* Contact form */
+    #form_input {
+        width: 80%;
+        margin-left: 20%;
+    }  
+
+
+
+/* Footer object2 */
+    .objects-2 {
+        margin-left: 25px;
+        color: #fff;
+        font-size: 15px;
+    }
+
+
+
+/* Footer ICONS */
+    .footer_social-link {
+        margin-right: 25px;
+    }
+
+
+}
+    
+    
+
+
+
+@media (max-width: 480px) {
+       
+
+/* Container (Рамка для Сайта) */
+    .container {
+        width: 320px;
+    }
+
+
+
+/* Cicero */
+    .cicero {
+        font-size: 19px;
+        margin-right: 150px;
+}
+
+
+
+/* Header Menu */
+    .menu {
+        flex-direction: column;
+        
+}
+
+    .menu li {
+        margin-right: 20px;
+        padding-bottom: 6px;
+}
+
+
+
+/* Header (Phrase) */
+    .phrase h2 {
+        font-size: 18px;
+}
+
+
+
+/* About us */
+     h3 {
+        font-size: 17px;
+        margin-bottom: 20px;
+}
+
+
+
+/* About DESCRIPTION1 */
+    .description {
+        width: 150px;
+        flex-direction: column;
+        margin-left: 35px;
+}
+
+
+
+/* About DESCRIPTION2 */
+    .description2 {
+        width: 150px;
+        flex-direction: column;
+        margin-left: 35px;
+}
+
+
+
+/* About (description 1) */
+    .desc-left, .desc-right {
+        width: 260px;
+}
+
+
+
+/* About (description 2) */
+    .desc-left2, .desc-right2 {
+        width: 260px;
+}
+
+ 
+
+/* Contact */
+    #contacts h5 {
+        font-size: 1.7em;
+}
+
+
+
+/* Contact form */
+    #form_input {
+        width: 80%;
+        margin-left: 20%;
+}  
+
+
+
+/* Footer object2 */
+    .objects {
+        flex-direction: column;
+    }
+
+
+
+    .objects-2 {
+        margin-left: 0px;
+        color: #fff;
+        font-size: 15px;
+}
+
+
+
+    .Cicero_2023 {
+        height: 1px;
+}
+
+
+
+/* Footer ICONS */
+    .footer_social-link {
+        margin-right: 20px;
+}
+
+
+}   
+    
+    
+    
+    
+             
+@media (max-width: 320px) {
+
+
+/* Container (Рамка для Сайта) */
+    .container {
+        width: 280px;
+}
+
+
+
+/* Cicero */
+    .cicero {
+        font-size: 19px;
+        margin-right: 120px;
+}
+
+
+
+/* Header Menu */
+    .menu {
+        flex-direction: column;
+    
+}
+
+    .menu li {
+        margin-right: 20px;
+        padding-bottom: 4px;
+}
+
+
+    .menu li a {
+        font-size: 12px;
+    }
+
+
+/* Header (Phrase) */
+    .phrase h2 {
+        font-size: 18px;
+}
+
+
+
+/* About us */
+     h3 {
+        font-size: 17px;
+        margin-bottom: 20px;
+}
+
+
+
+/* About DESCRIPTION1 */
+    .description {
+        width: 150px;
+        flex-direction: column;
+        margin-left: 35px;
+}
+
+
+
+/* About DESCRIPTION2 */
+    .description2 {
+        width: 150px;
+        flex-direction: column;
+        margin-left: 35px;
+}
+
+
+
+/* About (description 1) */
+    .desc-left, .desc-right {
+        width: 220px;
+}
+
+
+
+/* About (description 2) */
+    .desc-left2, .desc-right2 {
+        width: 220px;
+}
+
+
+
+/* Contact */
+    #contacts h5 {
+        font-size: 1.7em;
+}
+
+
+
+/* Contact form */
+    #form_input {
+        width: 80%;
+        margin-left: 20%;
+}  
+
+
+
+/* Footer object2 */
+    .objects-2 {
+        margin-left: 0px;
+        color: #fff;
+        font-size: 15px;
+}
+
+
+
+/* Footer ICONS */
+    .footer_social-link {
+        margin-right: 15px;
+}
+
+
+}
+
+             
