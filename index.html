@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width">
+       <meta http-equiv="X-UA-Compatible"
+       content="ie=edge">
+       <title>Cicero</title>
+       <link rel="shortcut icon" href="img/Cicero's Icon">
+       <link rel="stylesheet"  href="css/style.css">
+       <link rel="stylesheet" href="css/adaptive.css">
+    </head>
+    <body> 
+
+
+      
+      
+ <!--Header Start-->
+      <header id="header" class="header">
+        <div class="container">
+          <!--(Header)Menu-->
+            <div class="nav">
+              <h1 class="cicero">Cicero</h1>
+              <ul class="menu">
+                <li>
+                    <a href="#" onclick="slowScroll('#about')">About</a>
+                </li>              
+                <li>
+                    <a href="#"  onclick="slowScroll('#contact')">Contact</a>
+                </li>
+                <li>
+                    <a href="main.html" target="_blank"> Log in
+                    </a>
+                </li>
+              </ul>
+            </div>
+            <!--(Header)phrase-->
+            <div class="phrase">
+             <h2>Call someone for debate or 
+              <br>observe and judge </h2>
+            </div>
+        </div>
+      </header>
+ <!--Header End-->
+
+
+
+
+ <!--About Start-->
+      <section id="about" class="about">
+       <div class="container">
+        <h3>About us</h3>
+ <!--About 1description-->
+        <div class="description">
+           <div class="desc-left">
+               <p>Миссия данной платформы, объединить студентов, специалистов, творческих личностей, интеллектуалов, обычных людей которые страдают прокрастинацией, и культурным, образовательным, интеллектуальным дефицитом, для этого мы создаем экосистему на основе рейтинга и контракта.</p>
+           </div>
+           <div class="desc-right">
+               <p>Миссия данной платформы, объединить студентов, специалистов, творческих личностей, интеллектуалов, обычных людей которые страдают прокрастинацией, и культурным, образовательным, интеллектуальным дефицитом, для этого мы создаем экосистему на основе рейтинга и контракта.</p>
+           </div>
+        </div>
+ <!--About 1description End-->
+ <!--About 2description-->
+        <div class="description2">
+           <div class="desc-left2">
+               <p>Миссия данной платформы, объединить студентов, специалистов, творческих личностей, интеллектуалов, обычных людей которые страдают прокрастинацией, и культурным, образовательным, интеллектуальным дефицитом, для этого мы создаем экосистему на основе рейтинга и контракта. </p>
+           </div>
+           <div class="desc-right2">
+                <p>Миссия данной платформы, объединить студентов, специалистов, творческих личностей, интеллектуалов, обычных людей которые страдают прокрастинацией, и культурным, образовательным, интеллектуальным дефицитом, для этого мы создаем экосистему на основе рейтинга и контракта. </p>
+           </div>
+        </div>
+ <!--About 2description End-->
+       </div>
+      </section>
+ <!--About End-->
+
+
+
+
+ <!--Contact Start-->
+      <div id="contact" class="contact">
+       <div class="container">
+        <div id="contacts" class="contacts">
+          <center><h5>Contact</h5></center>
+          <form id="form_input">
+            <label for="name">Name</label><br>
+            <input type="text" placeholder=" Your name" name="name" id="name"><br>
+            <label for="email">Email</label><br>
+            <input type="email" placeholder=" Your email" name="email" id="email"><br>
+            <label for="message">Message</label><br>
+            <textarea placeholder=" Your message" name="message" id="message"></textarea><br>
+            <div id="mess_send" class="btn">Send</div>
+          </form>
+        </div>
+       </div>
+      </div>
+ <!--Contact End-->
+
+
+
+
+ <!--Footer-->
+ <footer id="foter" class="foter">
+  <div class="container">
+    <div class="footer_wrapper">
+     <ul class="objects">
+        <li class="objects-1">
+           <a href="#" class="footer-p" onclick="slowScroll('#header')">
+            <p class="Cicero_2023">
+              Cicero © 2023
+            </p>
+           </a>
+        </li>
+        <li class="objects-2">
+           <a href="#" class="footer-p">
+            <p class="privacy_policy">
+              Privacy Policy
+            </p>
+           </a>
+        </li>
+     </ul>
+<!--(Footer) Icons Start-->
+     <div class="footer_social">
+        <a href="#" class="footer_social-link">
+           <img src="icons to Cicero/youtube.svg" alt="youtube">
+        </a>
+        <a href="#" class="footer_social-link">
+            <img src="icons to Cicero/telegram.svg" alt="telegram">
+        </a>
+        <a href="#" class="footer_social-link">
+            <img src="icons to Cicero/instagram.svg"   alt="instagram">
+        </a>
+     </div>
+<!--(Footer) Icons End-->
+    </div>
+  </div>
+</footer>
+<!--Footer End-->
+
+
+
+<!--Подключение Jquery и JavaScript-->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+       <script>
+          function slowScroll(id) {
+          $('html, body').animate({
+          scrollTop: $(id).offset().top
+          }, 500);
+          }
+       </script>
+<!--JavaScript End-->
+
+
+
+
+    </body>
+</html>
+
